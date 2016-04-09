@@ -2,7 +2,7 @@
 
 ## draft_predictions.ipynb: 
 
-An iPython notebook with some preliminary data analysis to explore weather a team's performance in the previous season influences who they select in the first round of following the NFL draft. The notebook looks at two key features: total yards, and total yards allowed, and sorts teams by rank. If a team finishes ranked 12th in total offense and 20th in total defense, will they select someone on offense of defense?
+An iPython notebook with some preliminary data analysis to explore whether a team's performance in the previous season influences who they select in the first round of following the NFL draft. The notebook looks at two key features: total yards, and total yards allowed, and sorts teams by rank. If a team finishes the season ranked 12th in total offense and 20th in total defense, will they select someone on offense or defense?
 
 ### Models used:
 1. K-Nearest Neighbors
