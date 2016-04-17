@@ -1,0 +1,5 @@
+#Ignore iPython backups
+*.ipynb_checkpoint*
+
+#Ignore raw data
+*.csv
