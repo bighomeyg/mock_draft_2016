@@ -9,3 +9,7 @@ An iPython notebook with some preliminary data analysis to explore whether a tea
 2. Logistic Regression
 3. Random Forest
 4. Support Vector Machine
+
+## draft_experts.ipynb
+
+An iPython notebook which features a similar methodology using different input data. Namely, "epxert" mock drafts. Ten years of mock drafts from ESPN (McShay when available, Kiper in some spots), Bleacher Report, and walterfootball.com. All data was taken from the mock draft closest to the actual draft. 
